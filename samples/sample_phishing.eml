@@ -1,0 +1,14 @@
+From: "Microsoft Security" <security@micr0soft-example.test>
+To: analyst@example.com
+Reply-To: verify@account-check.example
+Date: Tue, 15 Sep 2026 10:30:00 +0530
+Subject: URGENT: Verify your account immediately
+Authentication-Results: example; spf=fail; dkim=fail; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Security alert. Your account is suspended. Please verify your password immediately.
+Click now: http://192.0.2.10/login?verify=account
+You must confirm your identity within 24 hours.
+
+This is a simulated training sample for defensive analysis.
