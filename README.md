@@ -30,3 +30,7 @@ Then open `http://127.0.0.1:5000`.
 The GUI supports both `.eml` upload and raw-email paste.
 
 > Use only on emails and samples you are authorized to analyze. This tool uses heuristic analysis and is not a definitive malware/phishing verdict.
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for the planned evolution of the project, including threat intelligence, SOC case management, Splunk integration, attachment analysis, ML detection, and controlled analyst response workflows.
